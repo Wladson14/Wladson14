@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, meu nome é Wladson Nascimento, faço o curso de tecnico de informatica na escola profissionalizante EEEP Edson Queiroz. Cursando o 3º do ensino medio</p>
+<p align="left">Olá, meu nome é Wladson Nascimento, faço o curso de tecnico de informatica na escola profissionalizante EEEP Edson Queiroz. Cursando o 3º ano do ensino medio.</p>
 
 ###
 
